@@ -1,0 +1,4 @@
+ /* tailwindin içerisindeki component ve utilities classlarını kullanmamıza yarar */
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
