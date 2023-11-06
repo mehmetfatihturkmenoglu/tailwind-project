@@ -9,7 +9,6 @@ module.exports = {
         gemunu: ["Gemunu Libre", "sans-serif"],
         open: ["Open Sans", "sans-serif"],
       },
-
       colors: {
         "tail-red": "#BC1A45",
         "tail-melon": "#FFD369",
